@@ -143,6 +143,9 @@ ul{
 .nav-link{
     color:white;
 }
+footer a {
+    color:white;
+}
 @media (max-width: 780px) {
     
     #contentpage{
